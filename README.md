@@ -1,5 +1,4 @@
-# Complete Git & GitHub Tutorial (Beginner to Advanced)
-
+# Complete Git & GitHub Tutorial 
 Complete end-to-end tutorial on Git and GitHub, starting from absolute basics and going up to advanced workflows used in real-world software development.
 
 ---

@@ -1,6 +1,6 @@
 # Complete Git & GitHub Tutorial (Beginner to Advanced)
 
-This **README.md** is a **complete end-to-end tutorial on Git and GitHub**, starting from absolute basics and going up to advanced workflows used in real-world software development.
+Complete end-to-end tutorial on Git and GitHub, starting from absolute basics and going up to advanced workflows used in real-world software development.
 
 ---
 
